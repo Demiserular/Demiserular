@@ -1,9 +1,6 @@
 # Hi there, I'm Shubham Chauhan 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Demiserular&label=Profile%20views&color=000000&style=flat" />
-  <img src="https://img.shields.io/github/followers/Demiserular?label=Followers&style=social" />
-</p>
+
 
 <table align="center" width="100%">
 <tr>
