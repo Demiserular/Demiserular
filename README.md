@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham Chauhan 👋
+# Shubham Chauhan 
 
 
 
@@ -7,7 +7,7 @@
 
 <td valign="top" width="38%">
 
-A systems-focused full-stack engineer with hands-on experience across backend services, Linux networking, and cloud-native infra.
+I am a systems-focused full-stack engineer with hands-on experience across backend services, Linux networking, and cloud-native infra.
 I build production-grade APIs in Go and C++, ship cross-platform apps in React Native, and contribute actively to open-source ecosystems like CNCF, Kubernetes, and Cilium.
 I care deeply about code quality, reliability, and clean engineering — whether shipping a feature or reviewing a PR.
 
