@@ -1,68 +1,75 @@
 # Hi there, I'm Shubham Chauhan 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Demiserular&label=Profile%20views&color=000000&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Demiserular?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Demiserular&label=Profile%20views&color=000000&style=flat" />
+  <img src="https://img.shields.io/github/followers/Demiserular?label=Followers&style=social" />
 </p>
 
-<p align="center"><b>Full-stack engineer focused on systems, backend reliability, and open source.</b></p>
-
 <table align="center" width="100%">
-  <tr>
-    <td valign="top" width="34%">
+<tr>
 
-## About me
-- Go, C++, Python, JavaScript, TypeScript.
-- Backend systems, Linux networking, DevSecOps.
-- Open-source contributor.
-- Building scalable products.
+<td valign="top" width="38%">
 
-    </td>
-    <td valign="top" width="33%">
+A systems-focused full-stack engineer with hands-on experience across backend services, Linux networking, and cloud-native infra.
+I build production-grade APIs in Go and C++, ship cross-platform apps in React Native, and contribute actively to open-source ecosystems like CNCF, Kubernetes, and Cilium.
+I care deeply about code quality, reliability, and clean engineering — whether shipping a feature or reviewing a PR.
 
-## What I do
-- Build APIs and services.
-- Work on system-level tooling.
-- Ship mobile and web features.
-- Improve code quality and reliability.
+**Freelance:** Full-stack developer for European, Middle East, and Indian clients — web and mobile apps.<br/>
+**Currently:** React Native + Go Engineer @ Sparx IT Solutions.<br/>
+**Prev:** Performance Engineer @ Orange Current Technologies.
 
-    </td>
-    <td valign="top" width="33%">
+---
 
-## Tech stack
+### Open source
+`CNCF` `Kubernetes` `Cilium`&nbsp;&nbsp;`gittuf` `Konflux-CI` `GreedyBear` `OWASP`
+
+### Key projects
+🔹 **MiniPaaS** — PaaS control plane (Go, K8s)<br/>
+🔹 **REX** — Distributed task engine (Go, React)
+
+### Contact
+<a href="https://www.linkedin.com/in/shubham-flag"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shubham.flag@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Demiserular"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+
+<td valign="top" width="62%">
+
+### Tech stack
+
+**Languages & Runtimes**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,react,nextjs,nodejs,postgres,docker,kubernetes,linux,git,github,bash&perline=4" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,nodejs,bash&perline=7" />
 </p>
 
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-
-## Current focus
-- Go backend services.
-- C++ systems problem solving.
-- Python automation.
-- JS/TS full-stack development.
-
-    </td>
-    <td valign="top" width="50%">
-
-## Highlights
-- MiniPaaS: lightweight PaaS control plane.
-- REX: distributed task execution engine.
-- OSS: CNCF, Kubernetes, Cilium, gittuf, Konflux-CI, GreedyBear, OWASP.
-
-    </td>
-  </tr>
-</table>
-
-## Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-flag"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubham.flag@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Demiserular"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactivex&perline=7" />
 </p>
+
+**Databases & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis&perline=7" />
+</p>
+
+**DevOps & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,prometheus,grafana&perline=7" />
+</p>
+
+**OS & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redhat,linux,git,github,vscode,postman&perline=7" />
+</p>
+
+**Testing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,cypress&perline=7" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+</td>
+
+</tr>
+</table>
