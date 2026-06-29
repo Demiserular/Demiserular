@@ -11,8 +11,8 @@ A systems-focused full-stack engineer with hands-on experience across backend se
 I build production-grade APIs in Go and C++, ship cross-platform apps in React Native, and contribute actively to open-source ecosystems like CNCF, Kubernetes, and Cilium.
 I care deeply about code quality, reliability, and clean engineering — whether shipping a feature or reviewing a PR.
 
-**Freelance:** Full-stack developer for European, Middle East, and Indian clients — web and mobile apps.<br/>
-**Currently:** React Native + Go Engineer @ Sparx IT Solutions.<br/>
+**Currently:** React Native + Go Engineer @Sparx IT Solutions.<br/>
+**Freelance:** Full-stack developer for European, Middle East, and Indian clients — developing web and mobile apps.<br/>
 **Prev:** Performance Engineer @ Orange Current Technologies.
 
 ---
@@ -31,7 +31,7 @@ I care deeply about code quality, reliability, and clean engineering — whether
 
 </td>
 
-<td valign="top" width="62%">
+<td valign="top" width="50%">
 
 ### Tech stack
 
