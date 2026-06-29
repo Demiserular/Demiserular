@@ -2,7 +2,7 @@
 
 
 
-<table align="center" width="100%">
+<table align="center" width="80%">
 <tr>
 
 <td valign="top" width="38%">
@@ -35,36 +35,23 @@ I care deeply about code quality, reliability, and clean engineering — whether
 
 ### Tech stack
 
-**Languages & Runtimes**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts,nodejs,bash&perline=7" />
-</p>
+**Languages & Runtimes**<br/>
+<img src="https://skillicons.dev/icons?i=go" width="35"/> <img src="https://skillicons.dev/icons?i=cpp" width="35"/> <img src="https://skillicons.dev/icons?i=python" width="35"/> <img src="https://skillicons.dev/icons?i=js" width="35"/> <img src="https://skillicons.dev/icons?i=ts" width="35"/> <img src="https://skillicons.dev/icons?i=nodejs" width="35"/> <img src="https://skillicons.dev/icons?i=bash" width="35"/>
 
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactivex&perline=7" />
-</p>
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react" width="35"/> <img src="https://skillicons.dev/icons?i=nextjs" width="35"/> <img src="https://skillicons.dev/icons?i=reactivex" width="35"/>
 
-**Databases & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis&perline=7" />
-</p>
+**Databases & Backend**<br/>
+<img src="https://skillicons.dev/icons?i=postgres" width="35"/> <img src="https://skillicons.dev/icons?i=mongodb" width="35"/> <img src="https://skillicons.dev/icons?i=supabase" width="35"/> <img src="https://skillicons.dev/icons?i=redis" width="35"/>
 
-**DevOps & Infra**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,prometheus,grafana&perline=7" />
-</p>
+**DevOps & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=docker" width="35"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="35"/> <img src="https://skillicons.dev/icons?i=aws" width="35"/> <img src="https://skillicons.dev/icons?i=terraform" width="35"/> <img src="https://skillicons.dev/icons?i=githubactions" width="35"/> <img src="https://skillicons.dev/icons?i=prometheus" width="35"/> <img src="https://skillicons.dev/icons?i=grafana" width="35"/>
 
-**OS & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redhat,linux,git,github,vscode,postman&perline=7" />
-</p>
+**OS & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=redhat" width="35"/> <img src="https://skillicons.dev/icons?i=linux" width="35"/> <img src="https://skillicons.dev/icons?i=git" width="35"/> <img src="https://skillicons.dev/icons?i=github" width="35"/> <img src="https://skillicons.dev/icons?i=vscode" width="35"/> <img src="https://skillicons.dev/icons?i=postman" width="35"/>
 
-**Testing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest,cypress&perline=7" />
-  <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" />
-</p>
+**Testing**<br/>
+<img src="https://skillicons.dev/icons?i=jest" width="35"/> <img src="https://skillicons.dev/icons?i=cypress" width="35"/> <img src="https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright&logoColor=white" height="35"/>
 
 </td>
 
