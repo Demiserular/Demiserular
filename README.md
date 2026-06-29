@@ -17,17 +17,10 @@ I care deeply about code quality, reliability, and clean engineering — whether
 
 ---
 
-### Open source
+### Open source Contributions :
 `CNCF` `Kubernetes` `Cilium`&nbsp;&nbsp;`gittuf` `Konflux-CI` `GreedyBear` `OWASP`
 
-### Key projects
-🔹 **MiniPaaS** — PaaS control plane (Go, K8s)<br/>
-🔹 **REX** — Distributed task engine (Go, React)
 
-### Contact
-<a href="https://www.linkedin.com/in/shubham-flag"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shubham.flag@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Demiserular"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 
